@@ -1,0 +1,27 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Codewars Kata practice and solutions",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha --recursive --reporter min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stga/Codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stga/Codewars/issues"
+  },
+  "homepage": "https://github.com/Stga/Codewars#readme"
+
+}
