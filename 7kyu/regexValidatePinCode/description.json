@@ -1,0 +1,6 @@
+{
+    "name": "Regex validate PIN code",
+    "kyuRank": 7,
+    "description": "ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits. ",
+    "link": "https://www.codewars.com/kata/55f8a9c06c018a0d6e000132"
+}
