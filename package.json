@@ -11,7 +11,8 @@
     "mocha": "^9.2.2"
   },
   "scripts": {
-    "test": "mocha --recursive --reporter min"
+    "testmin": "mocha --recursive --reporter min",
+    "test": "mocha --recursive"
   },
   "repository": {
     "type": "git",

@@ -3,7 +3,7 @@
     
     Description.
  */
-export function f() {
+function f() {
 
 }
 

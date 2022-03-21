@@ -1,7 +1,7 @@
 const { assert } = require("chai")
 const squareDigits= require("../../../7kyu/squareEveryDigit/solution")
 
-describe("Basic tests", () => {
+describe("squareEveryDigit Basic tests", () => {
   
   it("squareDigits(3212) should equal 9414", () => {
     assert.strictEqual(squareDigits(3212), 9414);
@@ -17,7 +17,7 @@ describe("Basic tests", () => {
 });
 
 
-describe("Random tests", () => {  
+describe("squareEveryDigit Random tests", () => {  
   
   function randint(min, max){
     return Math.floor(Math.random() * (max - min + 1)) + min;

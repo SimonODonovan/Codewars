@@ -1,7 +1,7 @@
 const { assert } = require("chai")
 const descendingOrder = require("../../../7kyu/decendingOrder/solution")
 
-describe("Basic tests", () => {
+describe("decendingOrder Basic tests", () => {
   it("Testing for fixed tests", () => {
     assert.strictEqual(descendingOrder(0), 0)
     assert.strictEqual(descendingOrder(1), 1)
@@ -12,7 +12,7 @@ describe("Basic tests", () => {
     })
   })
 
-describe("Random tests", () => {  
+describe("decendingOrder Random tests", () => {  
   
   function randint(min, max){
     return Math.floor(Math.random() * (max - min + 1)) + min;

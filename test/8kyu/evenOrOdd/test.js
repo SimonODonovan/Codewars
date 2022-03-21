@@ -3,7 +3,7 @@ const assert = chai.assert;
 const _ = require('lodash');
 const even_or_odd = require('../../../8Kyu/evenOrOdd/solution');
 
-describe("8kyu Even Or Odd tests",() => {
+describe("evenOrOdd tests",() => {
   
   it("2 is even", () => {
     assert.strictEqual(even_or_odd(2), "Even");
@@ -22,7 +22,7 @@ describe("8kyu Even Or Odd tests",() => {
   });
 });
 
-describe("8kyu Even Or Odd tests", () => {
+describe("evenOrOdd tests", () => {
 
   let generateCases = (odd, sign, count) => {
     return Array.from(

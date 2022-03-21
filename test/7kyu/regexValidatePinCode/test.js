@@ -1,7 +1,7 @@
 const assert = require("chai").assert;
 const validatePIN = require('../../../7Kyu/regexValidatePinCode/solution');
 
-describe("validatePIN", function() {
+describe("regexValidatePinCode validatePIN", function() {
     it("should return False for pins with length other than 4 or 6", function() {
       assert.strictEqual(validatePIN("1"),false, "Wrong output for '1'");
       assert.strictEqual(validatePIN("12"),false, "Wrong output for '12'");

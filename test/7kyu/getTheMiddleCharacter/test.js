@@ -1,7 +1,7 @@
 const assert = require("chai").assert;
 const getMiddle = require('../../../7Kyu/getTheMiddleCharacter/solution');
 
-describe("GetMiddle", function() {
+describe("getTheMiddleCharacter GetMiddle", function() {
     it("Tests", function() {
       assert.strictEqual(getMiddle("test"),"es");
       assert.strictEqual(getMiddle("testing"),"t");
@@ -10,7 +10,7 @@ describe("GetMiddle", function() {
     });
   });
   
-  describe("50 Random tests",function() {
+  describe("getTheMiddleCharacter 50 Random tests",function() {
   //----------------
   function randint(a, b) { 
       //return Math.floor(Math.random() * (b - a + 1) + a); 

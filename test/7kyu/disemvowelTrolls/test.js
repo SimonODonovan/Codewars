@@ -1,7 +1,7 @@
 const { assert } = require("chai")
 const disemvowel = require("../../../7kyu/disemvowelTrolls/solution")
 
-describe("Basic tests", () => {
+describe("disemvowelTrolls Basic tests", () => {
   it("Testing for fixed tests", () => {
     assert.strictEqual(disemvowel("This website is for losers LOL!"), "Ths wbst s fr lsrs LL!")
     assert.strictEqual(disemvowel("No offense but,\nYour writing is among the worst I've ever read"), "N ffns bt,\nYr wrtng s mng th wrst 'v vr rd")
@@ -9,7 +9,7 @@ describe("Basic tests", () => {
     })
   })
     
-describe("Random tests", () => {  
+describe("disemvowelTrolls Random tests", () => {  
   
   const base = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZaeiouAEIOU"
   
