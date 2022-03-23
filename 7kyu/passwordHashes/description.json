@@ -1,0 +1,6 @@
+{
+    "name": "Password Hashes",
+    "kyuRank": 7,
+    "description": "Create a function that return an MD5 hash, built-ins are permitted",
+    "link": "https://www.codewars.com/kata/54207f9677730acd490000d1/train/javascript"
+}
