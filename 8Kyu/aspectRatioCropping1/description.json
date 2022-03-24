@@ -1,0 +1,6 @@
+{
+    "name": "Aspect Ratio Cropping - Part 1",
+    "kyuRank": 8,
+    "description": "Convert arbitrary x/y pixels to 16:9 based on y pixel count.",
+    "link": "https://www.codewars.com/kata/596e4ef7b61e25981200009f"
+}
