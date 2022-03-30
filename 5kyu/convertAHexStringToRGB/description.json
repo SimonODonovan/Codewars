@@ -1,0 +1,6 @@
+{
+    "name": "Convert A Hex String To RGB",
+    "kyuRank": 5,
+    "description": "Implement a function that takes case-insentive hexadecimal colour string and returns a Map<String, int> with structure {r: x, g: y, b: z}. You can ignore shorthand hex colours.",
+    "link": "https://www.codewars.com/kata/5282b48bb70058e4c4000fa7"
+}
