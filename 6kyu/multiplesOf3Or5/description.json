@@ -1,0 +1,6 @@
+{
+    "name": "Multiples of 3 or 5",
+    "kyuRank": 6,
+    "description": "Return the sum of all the multiples of 3 or 5 below the number passed in",
+    "link": "https://www.codewars.com/kata/514b92a657cdc65150000006"
+}

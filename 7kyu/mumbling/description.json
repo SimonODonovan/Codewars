@@ -1,0 +1,6 @@
+{
+    "name": "Mumbling",
+    "kyuRank": 7,
+    "description": "Transform a string by separating each character with a '-', add char position * char and capitalize each first character.",
+    "link": "https://www.codewars.com/kata/5667e8f4e3f572a8f2000039"
+}

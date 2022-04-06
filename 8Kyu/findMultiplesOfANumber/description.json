@@ -1,0 +1,6 @@
+{
+    "name": "Find Multiples of a Number",
+    "kyuRank": 8,
+    "description": " takes a value, integer , and returns a list of its multiples up to another value, limit",
+    "link": "https://www.codewars.com/kata/58ca658cc0d6401f2700045f"
+}
