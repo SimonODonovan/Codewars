@@ -1,0 +1,6 @@
+{
+    "name": "Who likes it?",
+    "kyuRank": 6,
+    "description": "Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:",
+    "link": "https://www.codewars.com/kata/5266876b8f4bf2da9b000362"
+}

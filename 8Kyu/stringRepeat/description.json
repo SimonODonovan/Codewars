@@ -1,0 +1,6 @@
+{
+    "name": "String repeat",
+    "kyuRank": 8,
+    "description": "Write a function called repeatStr which repeats the given string string exactly n times.",
+    "link": "https://www.codewars.com/kata/57a0e5c372292dd76d000d7e"
+}
