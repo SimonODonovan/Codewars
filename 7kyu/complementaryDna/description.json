@@ -1,0 +1,6 @@
+{
+    "name": "Complementary DNA",
+    "kyuRank": 7,
+    "description": "In DNA strings, symbols 'A' and 'T' are complements of each other, as 'C' and 'G'. You function receives one side of the DNA (string, except for Haskell); you need to return the other complementary side.",
+    "link": "https://www.codewars.com/kata/554e4a2f232cdd87d9000038"
+}
