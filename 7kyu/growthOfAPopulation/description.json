@@ -1,0 +1,6 @@
+{
+    "name": "Growth of a Population",
+    "kyuRank": 7,
+    "description": "the function nb_year should return n number of entire years needed to get a population greater or equal to p.",
+    "link": "https://www.codewars.com/kata/563b662a59afc2b5120000c6"
+}
