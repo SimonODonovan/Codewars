@@ -1,0 +1,6 @@
+{
+    "name": "Tribonacci Sequence",
+    "kyuRank": 6,
+    "description": "You need to create a fibonacci function that given a signature array/list, returns the first n elements - signature included of the so seeded sequence.",
+    "link": "https://www.codewars.com/kata/556deca17c58da83c00002db"
+}
