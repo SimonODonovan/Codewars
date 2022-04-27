@@ -1,0 +1,6 @@
+{
+    "name": "Find the next perfect square!",
+    "kyuRank": 7,
+    "description": "Complete the findNextSquare method that finds the next integral perfect square after the one passed as a parameter. ",
+    "link": "https://www.codewars.com/kata/56269eb78ad2e4ced1000013"
+}
