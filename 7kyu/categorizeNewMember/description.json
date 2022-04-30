@@ -1,0 +1,6 @@
+{
+    "name": "Categorize New Member",
+    "kyuRank": 7,
+    "description": "Given array of age, handicap, decide if a player is in the Senior or Open group",
+    "link": "https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa"
+}
