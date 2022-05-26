@@ -1,0 +1,6 @@
+{
+    "name": "Convert a Boolean to a String",
+    "kyuRank": 8,
+    "description": "Implement a function which convert the given boolean value into its string representation.",
+    "link": "https://www.codewars.com/kata/551b4501ac0447318f0009cd"
+}
