@@ -1,5 +1,5 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Simon%20O%20Donovan" >My Profile</a> 
-![alt tag](https://github.com/SimonODonovan/Codewars/blob/master/screenshot.png)
+![alt tag](https://github.com/SimonODonovan/Codewars/blob/main/screenshot.png)
 A repository filled with codewars challenges (kata). Currently Ranked top 12% on the global leaderboard, Completed over 400+ challenges and Push 5 solutions every week.
 
 ## How It's Made:
