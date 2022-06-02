@@ -1,0 +1,6 @@
+{
+    "name": "Find the missing letter",
+    "kyuRank": 6,
+    "description": "Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.",
+    "link": "https://www.codewars.com/kata/5839edaa6754d6fec10000a2"
+}
