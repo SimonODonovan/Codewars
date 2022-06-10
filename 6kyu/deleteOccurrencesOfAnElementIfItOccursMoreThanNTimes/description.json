@@ -1,0 +1,6 @@
+{
+    "name": "Delete occurrences of an element if it occurs more than n times",
+    "kyuRank": 6,
+    "description": "Given a list and a number, create a new list that contains each number of list at most N times, without reordering.",
+    "link": "https://www.codewars.com/kata/554ca54ffa7d91b236000023"
+}
