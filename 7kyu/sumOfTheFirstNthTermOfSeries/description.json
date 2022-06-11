@@ -1,0 +1,6 @@
+{
+    "name": "Sum of the first nth term of Series",
+    "kyuRank": 7,
+    "description": "Your task is to write a function which returns the sum of following series upto nth term(parameter).",
+    "link": "https://www.codewars.com/kata/555eded1ad94b00403000071"
+}
