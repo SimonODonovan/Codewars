@@ -1,0 +1,6 @@
+{
+    "name": "Build Tower",
+    "kyuRank": 6,
+    "description": "Build a pyramid-shaped tower given a positive integer number of floors. A tower block is represented with '*' character.",
+    "link": "https://www.codewars.com/kata/576757b1df89ecf5bd00073b"
+}
